@@ -1,5 +1,10 @@
 # Compiled class file
 *.class
+.idea
+target
+maven_settings.xml
+**/.DS_Store
+/dbfiles/*
 
 # Log file
 *.log
